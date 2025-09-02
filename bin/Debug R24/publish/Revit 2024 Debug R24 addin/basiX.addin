@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>basiX</Name>
+    <Assembly>basiX\basiX.dll</Assembly>
+    <AddInId>0E0D0AA8-ECB4-465B-BBD1-7FD4C8AC5A2D</AddInId>
+    <FullClassName>basiX.Application</FullClassName>
+    <VendorId>Development</VendorId>
+    <VendorDescription>Buruh Hybrid</VendorDescription>
+    <VendorEmail></VendorEmail>
+  </AddIn>
+</RevitAddIns>

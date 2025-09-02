@@ -1,0 +1,14 @@
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\bin\Debug R24\basiX.dll
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\bin\Debug R24\basiX.pdb
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\bin\Debug R24\JetBrains.Annotations.dll
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\bin\Debug R24\Nice3point.Revit.Extensions.dll
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\bin\Debug R24\Nice3point.Revit.Toolkit.dll
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.csproj.AssemblyReference.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.g.resources
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.AssemblyInfoInputs.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.AssemblyInfo.cs
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.csproj.CoreCompileInputs.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.csproj.Up2Date
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.dll
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\basiX\basiX\obj\Debug R24\basiX.pdb
