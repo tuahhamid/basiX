@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("basiX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug R24")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa403a9497fd42b63b0d96204c9f1056c59fa25d")]
 [assembly: System.Reflection.AssemblyProductAttribute("basiX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("basiX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
